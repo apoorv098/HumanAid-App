@@ -11,9 +11,11 @@ with minimal effort.
 Features<br/>
 :star: Phone Verification<br/>
 :star: Add Emergency Contacts<br/>
-:star: Shake to alert<br/>
+:star: Quick Helpline Dialer Support <br/>
+:star: Shake or 3 times Power Press to alert<br/>
 :star: Guardian Shield<br/>
 :star: Duration<br/>
+
 
 
 **ScreenShots of the App**
