@@ -4,9 +4,9 @@ Human Aid App project source code
 **HumanAid : “we care for your safety”**   - By Team AndroGeeks
 
 
-Features
-:star: Phone Verification
-:star: Add Emergency Contacts
-:star: Shake to alert
-:star: Guardian Shield
-:star: Duration
+Features<br/>
+:star: Phone Verification<br/>
+:star: Add Emergency Contacts<br/>
+:star: Shake to alert<br/>
+:star: Guardian Shield<br/>
+:star: Duration<br/>
