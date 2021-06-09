@@ -14,3 +14,10 @@ Features<br/>
 :star: Shake to alert<br/>
 :star: Guardian Shield<br/>
 :star: Duration<br/>
+
+
+**ScreenShots of the App**
+
+![SS1](https://github.com/apoorv098/HumanAid-App/blob/main/ScreenShots/SS_1.PNG)
+![SS2](https://github.com/apoorv098/HumanAid-App/blob/main/ScreenShots/SS_2.PNG)
+![SS3](https://github.com/apoorv098/HumanAid-App/blob/main/ScreenShots/SS_3.PNG)
