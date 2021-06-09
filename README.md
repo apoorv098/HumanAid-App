@@ -5,6 +5,8 @@ basic idea is to build a user-friendly and robust application that can help indi
 sending SOS messages along with the current location and the app can be triggered
 with minimal effort.
 
+*This project is done as a part of Mobile Computing Course at IIIT Delhi, India.*
+
 **HumanAid : “we care for your safety”**   - By Team AndroGeeks
 
 
